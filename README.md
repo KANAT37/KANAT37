@@ -1,4 +1,4 @@
-PROFİLE HOŞGELDİN <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4fpJeT38_K74vH8xddJFLVgaSgVWQxB8E7GBuypQGg&s=10" width="3%">
+PROFİLE HOŞGELDİN <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006f7c820ab79a67c96f9cf741&ts=496240&p=fs&cid=1&sig=227db00bc9c7be50adb286f5de6fe8fafa1f1b5356ef6eef9e858b3dc302c155&v=0" width="3%">
 
 <!--
 **KANAT37/KANAT37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
