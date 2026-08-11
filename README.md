@@ -1,4 +1,4 @@
-PROFİLE HOŞGELDİN <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4fpJeT38_K74vH8xddJFLVgaSgVWQxB8E7GBuypQGg&s=10" width="5%">
+PROFİLE HOŞGELDİN <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4fpJeT38_K74vH8xddJFLVgaSgVWQxB8E7GBuypQGg&s=10" width="3%">
 
 <!--
 **KANAT37/KANAT37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
